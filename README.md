@@ -1,12 +1,14 @@
 # 💫 About Me
 
-💻 I'm passionate about software development and creating applications that provide practical solutions.
+🎓 I'm a Systems Engineering student with experience in Machine Learning and Data Analysis.
+
+💻 I'm passionate about software development and building applications that solve real-world problems.
 
 🔭 I'm currently working on web applications and information systems.
 
-🌱 I'm currently improving my skills in backend development, databases, and application design.
+🌱 I'm strengthening my skills in backend development, databases, and application design.
 
-🚀 I'm interested in continuous learning, building new projects, and strengthening my programming skills.
+🚀 I'm always looking for opportunities to learn, explore new technologies, and grow as a developer.
 
 🌍 English proficiency: B2.
 
