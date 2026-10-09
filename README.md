@@ -1,15 +1,10 @@
 # 💫 About Me
 
 💻 I'm passionate about software development and creating applications that provide practical solutions.
-
 🔭 I'm currently working on web applications and information systems.
-
 🌱 I'm currently improving my skills in backend development, databases, and application design.
-
 🚀 I'm interested in continuous learning, building new projects, and strengthening my programming skills.
-
 🌍 English proficiency: B2.
-
 ⚡ I love movies and I'm a big fan of Harry Potter.
 
 ## 🌐 Contact
