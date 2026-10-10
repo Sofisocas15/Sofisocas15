@@ -10,7 +10,7 @@
 
 🚀 I'm always looking for opportunities to learn, explore new technologies, and grow as a developer.
 
-🌍 English proficiency: C2.
+🌍 English proficiency: C1.
 
 ⚡ I love movies and I'm a big fan of Harry Potter.
 
